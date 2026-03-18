@@ -54,6 +54,7 @@
 | Project | Tools Used | Description |
 |--------|-----------|-------------|
 | [🍔 Swiggy Restaurant Analysis](https://github.com/Tani0310/Swiggy-Restaurant-Analysis) | SQL · MySQL | Analyzed 61K+ restaurants across 534 cities — 26 SQL queries |
+| [👗 Myntra Products Analysis](https://github.com/Tani0310/Myntra-Products-Analysis) | Excel · Power BI | 24K+ products dashboard — brand revenue, pricing & discount trends |
 | [🛒 Superstore Data Analytics](https://github.com/Tani0310/Superstore-Data-Analytics) | SQL · Excel · Power BI | Sales, profit & delivery performance dashboard |
 | [📦 Amazon Product Sales Analysis](https://github.com/Tani0310/Amazon-product-sales-analysis-) | Power BI · Excel | Interactive sales analysis dashboard with customer engagement metrics |
 | [🧹 Data Cleaning](https://github.com/Tani0310/Data-cleaning) | Excel | Data cleaning & preprocessing on real-world dataset |
