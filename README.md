@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tanii 👋</h1>
+<h1 align="center">Hi there, I'm Taniya 👋</h1>
 
 <h3 align="center">MBA Student | Aspiring Data Analyst | Turning Data into Decisions</h3>
 
