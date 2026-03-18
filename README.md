@@ -70,8 +70,9 @@
 
 ### 🎓 Certifications
 
-- 📌 Data Analytics Certification — **GeeksforGeeks** *(In Progress)*
-- 📌 IBM Data Analyst Professional Certificate *(In Progress)*
+📌 Deloitte Australia Data Analytics Job Simulation — Forage (2025)
+📌 Data Analytics Certification — LinkedIn Learning
+📌 Data Analytics Certification — **GeeksforGeeks** *(In Progress)*
 
 ---
 
