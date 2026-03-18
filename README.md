@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Tanii 👋</h1>
+
 <h3 align="center">MBA Student | Aspiring Data Analyst | Turning Data into Decisions</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/taniya-jain-542118229)" target="_blank">
+  <a href="https://www.linkedin.com/in/taniya-jain-542118229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jaintaniya037@gmail.com">
@@ -9,16 +11,19 @@
   </a>
 </p>
 
-👩‍💼 About Me
+---
 
-🎓 Pursuing MBA with specialization in Business Analytics (Graduating 2026)
-📊 Passionate about turning raw data into meaningful business insights
-🌱 Currently building skills in Python & Data Analytics
-📁 Working on real-world portfolio projects using SQL, Power BI & Excel
-📍 Based in India
+### 👩‍💼 About Me
 
+- 🎓 Pursuing **MBA with specialization in Business Analytics** (Graduating 2026)
+- 📊 Passionate about turning raw data into meaningful business insights
+- 🌱 Currently building skills in **Python & Data Analytics**
+- 📁 Working on real-world portfolio projects using **SQL, Power BI & Excel**
+- 🎯 Goal: Land a **Data Analyst role at a large company** in 2026
+- 📍 Based in **India**
 
-🛠️ Skills & Tools
+---
+
 ### 🛠️ Skills & Tools
 
 **Data Analysis & Databases**
@@ -43,27 +48,38 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-📂 Featured Projects
-ProjectTools UsedDescription
-🛒 Superstore Data AnalyticsSQL · Excel · Power BISales, profit & delivery performance dashboard
-📦 Amazon Product Sales AnalysisPower BI · ExcelInteractive sales analysis dashboard with customer engagement metrics
-🧹 Data CleaningExcelData cleaning & preprocessing on real-world dataset
-🗃️ SQL Query PracticeSQLE-Commerce database queries — JOINs, GROUP BY, aggregations
+---
 
-📈 GitHub Stats
+### 📂 Featured Projects
+
+| Project | Tools Used | Description |
+|--------|-----------|-------------|
+| [🛒 Superstore Data Analytics](https://github.com/Tani0310/Superstore-Data-Analytics) | SQL · Excel · Power BI | Sales, profit & delivery performance dashboard |
+| [📦 Amazon Product Sales Analysis](https://github.com/Tani0310/Amazon-product-sales-analysis-) | Power BI · Excel | Interactive sales analysis dashboard with customer engagement metrics |
+| [🧹 Data Cleaning](https://github.com/Tani0310/Data-cleaning) | Excel | Data cleaning & preprocessing on real-world dataset |
+| [🗃️ SQL Query Practice](https://github.com/Tani0310/SQL-query) | SQL | E-Commerce database queries — JOINs, GROUP BY, aggregations |
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tani0310&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tani0310&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tani0310&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
 </p>
 
-🎓 Certifications
+---
 
-📌 Data Analytics Certification — GeeksforGeeks (In Progress)
+### 🎓 Certifications
 
+- 📌 Data Analytics Certification — **GeeksforGeeks** *(In Progress)*
+- 📌 IBM Data Analyst Professional Certificate *(In Progress)*
+
+---
 
 <p align="center">
   <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tani0310&color=blue&style=flat-square&label=Profile+Views" />
 </p>
