@@ -19,7 +19,6 @@
 - 📊 Passionate about turning raw data into meaningful business insights
 - 🌱 Currently building skills in **Python & Data Analytics**
 - 📁 Working on real-world portfolio projects using **SQL, Power BI & Excel**
-- 🎯 Goal: Land a **Data Analyst role at a large company** in 2026
 - 📍 Based in **India**
 
 ---
