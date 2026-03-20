@@ -53,7 +53,7 @@
 
 | Project | Tools Used | Description |
 |--------|-----------|-------------|
-|🎬 Netflix Content Analysis](https://github.com/Tani0310/Netflix-Content-Analysis) | SQL · MySQL · Power BI | 8,700+ titles analyzed — content ratings, growth trends & Movies vs TV Shows |
+| [🎬 Netflix Content Analysis](https://github.com/Tani0310/Netflix-Content-Analysis) | SQL · MySQL · Power BI | 8,700+ titles analyzed — content ratings, growth trends & Movies vs TV Shows |
 | [🍔 Swiggy Restaurant Analysis](https://github.com/Tani0310/Swiggy-Restaurant-Analysis) | SQL · MySQL | Analyzed 61K+ restaurants across 534 cities — 26 SQL queries |
 | [👗 Myntra Products Analysis](https://github.com/Tani0310/Myntra-Products-Analysis) | Excel · Power BI | 24K+ products dashboard — brand revenue, pricing & discount trends |
 | [🛒 Superstore Data Analytics](https://github.com/Tani0310/Superstore-Data-Analytics) | SQL · Excel · Power BI | Sales, profit & delivery performance dashboard |
