@@ -1,7 +1,8 @@
 <div align="center">
 
-# Hi, I'm Taniya Jain 👋
-### Data Analyst · MBA Graduate · Turning Numbers into Narratives
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Taniya+Jain+%F0%9F%91%8B;MBA+Graduate+%7C+Business+Analytics;Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taniya-jain-542118229)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaintaniya037@gmail.com)
@@ -14,22 +15,18 @@
 
 ## 🙋‍♀️ About Me
 
-```python
-taniya = {
-    "degree"     : "MBA Graduate — Business Analytics",
-    "passion"    : "Turning raw data into real business decisions",
-    "tools"      : ["SQL", "Power BI", "Excel", "Python"],
-    "currently"  : "Building Python skills (Pandas · NumPy · Matplotlib)",
-    "location"   : "India 📍",
-    "open_to"    : "Data Analyst Roles 🚀"
-}
-```
+- 🎓 **MBA Graduate** — Specialization in **Business Analytics**
+- 📊 Passionate about transforming raw data into **actionable business insights**
+- 🛠️ Working with **SQL · Power BI · Excel** on real-world portfolio projects
+- 🌱 Currently upskilling in **Python** — Pandas · NumPy · Matplotlib
+- 🏅 **IBM Certified Data Analyst** (GeeksforGeeks)
+- 📍 Based in **India** · Open to **Data Analyst Roles**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Core Skills**
+**Data & Analytics**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -43,7 +40,7 @@ taniya = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -52,34 +49,25 @@ taniya = {
 
 ## 📂 Featured Projects
 
-| # | Project | Tools | Highlights |
-|---|---------|-------|------------|
-| 🎬 | [Netflix Content Analysis](https://github.com/Tani0310/Netflix-Content-Analysis) | SQL · Power BI | 8,700+ titles · ratings, trends & Movies vs TV Shows |
-| 🍔 | [Swiggy Restaurant Analysis](https://github.com/Tani0310/Swiggy-Restaurant-Analysis) | SQL · MySQL | 61K+ restaurants · 534 cities · 26 SQL queries |
-| 👗 | [Myntra Products Analysis](https://github.com/Tani0310/Myntra-Products-Analysis) | Excel · Power BI | 24K+ products · brand revenue & discount trends |
-| 🛒 | [Superstore Data Analytics](https://github.com/Tani0310/Superstore-Data-Analytics) | SQL · Excel · Power BI | Sales, profit & delivery performance dashboard |
-| 📦 | [Amazon Product Sales Analysis](https://github.com/Tani0310/Amazon-product-sales-analysis-) | Power BI · Excel | Interactive sales dashboard · customer engagement metrics |
-| 🧹 | [Data Cleaning](https://github.com/Tani0310/Data-cleaning) | Excel | Real-world data cleaning & preprocessing |
-| 🗃️ | [SQL Query Practice](https://github.com/Tani0310/SQL-query) | SQL | E-commerce queries · JOINs · GROUP BY · aggregations |
+| Project | Tools | Highlights |
+|---------|-------|------------|
+| [🎬 Netflix Content Analysis](https://github.com/Tani0310/Netflix-Content-Analysis) | SQL · Power BI | 8,700+ titles · ratings, trends & Movies vs TV Shows |
+| [🍔 Swiggy Restaurant Analysis](https://github.com/Tani0310/Swiggy-Restaurant-Analysis) | SQL · MySQL | 61K+ restaurants · 534 cities · 26 SQL queries |
+| [👗 Myntra Products Analysis](https://github.com/Tani0310/Myntra-Products-Analysis) | Excel · Power BI | 24K+ products · brand revenue & discount trends |
+| [🛒 Superstore Data Analytics](https://github.com/Tani0310/Superstore-Data-Analytics) | SQL · Excel · Power BI | Sales, profit & delivery performance dashboard |
+| [📦 Amazon Product Sales Analysis](https://github.com/Tani0310/Amazon-product-sales-analysis-) | Power BI · Excel | Interactive sales dashboard · customer engagement metrics |
+| [🧹 Data Cleaning](https://github.com/Tani0310/Data-cleaning) | Excel | Real-world data cleaning & preprocessing |
+| [🗃️ SQL Query Practice](https://github.com/Tani0310/SQL-query) | SQL | E-commerce queries · JOINs · GROUP BY · aggregations |
 
 ---
 
 ## 🏅 Certifications
 
-| Badge | Certification | Issuer | Status |
-|-------|--------------|--------|--------|
-| 🏆 | Data Analytics Job Simulation | Deloitte Australia · Forage | ✅ Completed (2025) |
-| 📊 | Data Analytics Certification | LinkedIn Learning | ✅ Completed |
-| 📗 | Data Analytics Certification | GeeksforGeeks | ✅ Completed |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tani0310&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tani0310&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
+| Certification | Issuer | Status |
+|--------------|--------|--------|
+| 🏆 Data Analytics Job Simulation | Deloitte Australia · Forage | ✅ Completed (2025) |
+| 📊 Data Analytics Certification | LinkedIn Learning | ✅ Completed |
+| 🥇 IBM Data Analyst Professional Certificate | GeeksforGeeks | ✅ Completed |
 
 ---
 
@@ -87,6 +75,6 @@ taniya = {
 
 *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-⭐ **If you find my projects useful, consider giving them a star!** ⭐
+⭐ **If you find my projects helpful, drop a star!** ⭐
 
 </div>
