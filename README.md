@@ -1,8 +1,10 @@
 <div align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Taniya+Jain!;MBA+Graduate+%7C+Data+Analyst;Skilled+in+SQL%2C+Power+BI+%26+Advanced+Excel;Turning+Data+into+Meaningful+Insights+%F0%9F%9A%80" alt="Typing SVG" />
-<br/>
+Hi, I'm Taniya Jain
 
+MBA Graduate · Data Analyst · Turning Data into Meaningful Insights
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taniya-jain-542118229)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaintaniya037@gmail.com)
