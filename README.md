@@ -1,17 +1,19 @@
 <div align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-Hi, I'm Taniya Jain
-
-MBA Graduate · Data Analyst · Turning Data into Meaningful Insights
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taniya-jain-542118229)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaintaniya037@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tani0310)
-![Profile Views](https://komarev.com/ghpvc/?username=Tani0310&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-</div>
+Readme · MDCopy<h1 align="center">Hi there, I'm Taniya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
+<h3 align="center">MBA Graduate | Data Analyst | Turning Data into Decisions</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/taniya-jain-542118229" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jaintaniya037@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Tani0310">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Tani0310&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+</p>
 
 ---
 
