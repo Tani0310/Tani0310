@@ -66,7 +66,7 @@
 
 | Certification | Issuer | Status |
 |--------------|--------|--------|
-| 🏆 Data Analytics Job Simulation | Deloitte Australia · Forage | ✅ Completed (2025) |
+| 🏆 Data Analytics Job Simulation | Deloitte Australia · Forage | ✅ Completed |
 | 📊 Data Analytics Certification | LinkedIn Learning | ✅ Completed |
 | 🥇 IBM Data Analyst Professional Certificate | GeeksforGeeks | ✅ Completed |
 
